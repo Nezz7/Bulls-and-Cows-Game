@@ -1,5 +1,5 @@
 # Bulls-and-Cows-Game
-This application is a stimulation of [Bulls and Cows Game](https://en.wikipedia.org/wiki/Bulls_and_Cows) using JAVA SWING.
+This application is a stimulation of [Bulls and Cows Game](https://en.wikipedia.org/wiki/Bulls_and_Cows) using JAVA SWING. <br>
 PS : this  is my 2nd project ever. I was implemeted in 2015.
 ## Menu Frame :
 ![Menu Frame](https://github.com/Nezz7/Bulls-and-Cows-Game/blob/master/src/Images/MenuFrame.PNG)
